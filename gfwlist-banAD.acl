@@ -1593,6 +1593,7 @@
 (^|\.)\w*whatsapp\w*\.\w*$
 
 #GFWList
+\w\.tw$
 (^|\.)(.*)\.2\.bahamut\.com\.tw$
 (^|\.)(.*)\.global\.ssl\.fastly\.net$
 (^|\.)030buy\.com$
@@ -3067,6 +3068,7 @@
 (^|\.)fbworkmail\.com$
 (^|\.)fc2\.com$
 (^|\.)fc2blog\.net$
+(^|\.)fc2blog\.us$
 (^|\.)fc2china\.com$
 (^|\.)fc2cn\.com$
 (^|\.)fc2web\.com$
