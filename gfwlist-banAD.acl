@@ -1594,6 +1594,7 @@
 
 #GFWList
 \w\.tw$
+(^|\.)peing\.net$
 (^|\.)(.*)\.2\.bahamut\.com\.tw$
 (^|\.)(.*)\.global\.ssl\.fastly\.net$
 (^|\.)030buy\.com$
